@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Machine Learning models
+model.pkl
+model_adaptive.pkl
+model_original_features.pkl
+model_v2.pkl
+
+# Dataset
+dataset/*.csv
+
+# Frontend dependencies and build
+frontend/node_modules/
+frontend/dist/
